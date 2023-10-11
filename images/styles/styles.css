@@ -2,7 +2,16 @@
 
 body {
     text-align: center;
+      background-color: #fcfbfb; 
   }
+
+  header {
+    background-color:rgba(20,30,13, .7);
+}
+  nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
   nav {
     background-color: rgb(70, 130, 180);
     padding: 10px;
@@ -25,3 +34,28 @@ body {
     background-color: steelblue;
     color: white;
   }
+  footer a{background-color: black;
+    color: #d9c2a3;}
+footer a:hover{background-color: black;
+  color: #d9c2a3;}
+  
+  .home-title{
+    background-color: black;
+    color: #d9c2a3;
+  }
+h4{ background-color: black;
+  color: #d9c2a3;}
+.book{background-color: black;
+  color: #d9c2a3;} 
+  .join{background-color: black;
+    color: #d9c2a3;}
+.book:hover{background-color: black;
+  color: #d9c2a3;} 
+  .join:hover{background-color: black;
+    color: #d9c2a3;}
+.msg h2{background-color: black;
+  color: #d9c2a3;}
+.msg p{background-color: black;
+  color: #d9c2a3;}
+
+
