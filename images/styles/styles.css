@@ -17,6 +17,8 @@ body {
 }
 nav a{
   text-align: center;
+  color:#fcfbfb;
+  text-decoration: none;
 }
   nav {
     background-color: rgb(70, 130, 180);
@@ -53,6 +55,8 @@ footer a:hover{
 }
 footer p{
   font-size: 1.2em;
+  text-decoration: underline;
+  
 }
 footer p a:hover {
   text-decoration: underline;
@@ -98,6 +102,9 @@ h4{ background-color: black;
 }
 .button-box{
    text-align: center;
+  }
+  .icon{width:80px;
+
   }
 main section{
    text-align: center;
