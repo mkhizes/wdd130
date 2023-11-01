@@ -25,7 +25,7 @@ nav a{
     background-color: rgb(70, 130, 180);
     padding: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
   }
   a {
     color: white;
@@ -145,6 +145,11 @@ main section{
   grid-row: 1/2;
   margin-top: 100px;
 }
+#hero-msg h4{
+color:white;
+}
+
+
 .mountains {
   width: 100%;
   grid-column: 2/7;
