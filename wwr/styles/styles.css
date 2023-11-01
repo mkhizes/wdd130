@@ -9,6 +9,7 @@ body {
     background-color:rgba(20,30,13, .7);
       display: grid;
       grid-template-columns: 150px auto;
+      grid-row: 1fr;
   }
   nav a:hover {
     background-color: black;
