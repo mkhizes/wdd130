@@ -173,6 +173,9 @@ color:white;
   grid-row: 6/7;
   box-shadow: 5px 5px 10px #6f7364;
 }
+.home-grid{
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
 @media screen and (max-width: 900px) 
 {
