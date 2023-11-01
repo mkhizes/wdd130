@@ -83,25 +83,25 @@ p {
 }
 
 .primary {
-  background-color: var(#1D3557);
+  background-color: var(--primary-color);
 }
 .secondary {
-  background-color: var(#A8DADC);
+  background-color: var(--secondary-color);
 }
 .accent1 {
-  background-color: var(#E63946);
+  background-color: var(--accent1-color);
 }
 .accent2{
-  background-color: var(#457B9D);
+  background-color: var(--accent2-color);
 }
 
 p.colored {
-  background-color: var(#A8DADC);
-  color: var(#E63946);
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 nav {
-  background-color: var(#E63946);
+  background-color: var(--accent2-color);
   line-height: 3em;
   text-align: center;
   font-size: 1.2em;
