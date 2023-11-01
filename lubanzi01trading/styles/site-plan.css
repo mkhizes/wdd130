@@ -82,16 +82,16 @@ p {
 }
 
 .primary {
-  background-color: var(#396E94);
+  background-color: var(#1D3557);
 }
 .secondary {
-  background-color: var(#97B59C);
+  background-color: var(#A8DADC);
 }
 .accent1 {
-  background-color: var(#97B59C);
+  background-color: var(#E63946);
 }
 .accent2{
-  background-color: var(#396E94);
+  background-color: var(#A8DADC);
 }
 
 p.colored {
