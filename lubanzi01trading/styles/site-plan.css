@@ -20,17 +20,17 @@ Fonts are separated by a | */
   --paragraph-color-on-white: #457b9d; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #f1faee; /* paragraph text on a colored background */ 
   --paragraph-background-color: #457b9d  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-link-color: #457b9d;
+  --nav-background-color: #e63946;
+  --nav-hover-link-color: #f1faee;
+  --nav-hover-background-color: #457b9d;
 }
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
-  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-family: 'Roboto Mono',monospace;
   max-width: 1200px;
   margin: 0 auto;
   padding: 4em;
