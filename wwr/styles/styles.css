@@ -210,7 +210,35 @@ footer.social img{
 footer{
    margin-top: 200px; 
   }
+  home-grid{
+    display: grid;
+    grid-template-columns:  repeat 10(1fr);
+  }
+  .rivers-card{
+    grid-column:2/4;
+    grid-row: 2/3;
 
+  }
+.camping-card{
+  grid-column:5/7;
+  grid-row: 2/3;
+}
+.rapids-card{
+  grid-column: 8/10;
+  grid-row: 2/3;
+}
+.mountains{
+grid-column:2/7; 
+grid-row:5/8;
+}
+#background{
+  grid-column:1/11;
+  grid-row:4/9;
+}
+.msg {
+  grid-column:6/10;
+  grid-row:6/7;
+}
 
 @media screen and (max-width: 900px) 
 {
