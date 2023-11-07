@@ -57,7 +57,7 @@ nav a{
     width: 800px;
     border: 10px solid steelblue;
     border-image: round;
-    place-self:right ;
+    place-self:unset ;
     z-index: auto;
   }
   .shaded{
