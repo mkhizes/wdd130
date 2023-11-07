@@ -38,10 +38,12 @@ nav a{
   h2{
     text-align: center;
     text-decoration: #111;
+    padding: auto;
   }
   h1 {
     color: steelblue;
     text-align: center;
+    padding: auto;
   }
   img {
     width: 800px;
