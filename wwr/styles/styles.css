@@ -56,6 +56,9 @@ nav a{
     place-self:right ;
     z-index: auto;
   }
+  .shaded p{
+    background-color: blue (hue, saturation, lightness, alpha);
+  }
   p {
     padding: 10px;
     text-indent: 30px;
@@ -66,9 +69,9 @@ nav a{
     color: white;
       padding: 25px 50px;
       margin-top: 200px; 
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
+      display: grid;
+      justify-content: space-evenly;
+      align-items: normal;
   }
   
   footer a{
