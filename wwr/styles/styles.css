@@ -56,13 +56,13 @@ nav a{
     place-self:right ;
     z-index: auto;
   }
-  .shaded p{
+  .shaded{
     background-color: blue (hue, saturation, lightness, alpha);
   }
   p {
     padding: 10px;
     text-indent: 30px;
-    text-align: left;
+    text-align: auto;
   }
   footer {
     background-color: steelblue;
