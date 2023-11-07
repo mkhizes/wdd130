@@ -31,6 +31,9 @@ nav a{
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-row: 1fr;
     
 
   }
