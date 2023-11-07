@@ -25,6 +25,9 @@ body {
 }
 nav a{
   text-align: center;
+    text-decoration: none;
+    color: #fcfbfb;
+    padding: 35px;
 }
   nav {
     background-color: rgb(70, 130, 180);
