@@ -11,6 +11,9 @@ body {
 
   header {
     background-color:rgba(20,30,13, .7);
+    display: grid;
+    grid-template-columns: 80px auto;
+      grid-row: 1fr;
       
   }
   nav a:hover {
@@ -28,9 +31,7 @@ nav a{
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
-    display: grid;
-    grid-template-columns: 100px auto;
-      grid-row: 1fr;
+    
 
   }
   a {
