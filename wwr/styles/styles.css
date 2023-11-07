@@ -30,6 +30,10 @@ nav a{
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 100px auto;
+      grid-row: 1fr;
+
   }
   a {
     color: white;
@@ -47,7 +51,7 @@ nav a{
   }
   img {
     width: 800px;
-    border: 4px solid steelblue;
+    border: 10px solid steelblue;
     border-image: round;
     place-self:right ;
     z-index: auto;
