@@ -209,6 +209,9 @@ main section{
 #hero-msg h4{
 color:white;
 }
+.card-img, .mountains {
+  width: 100%;
+}
 
 h2{
   padding: 0;
