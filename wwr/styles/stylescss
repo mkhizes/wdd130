@@ -60,7 +60,8 @@ nav a{
   h2{
     text-align: center;
     text-decoration: #111;
-    padding:10px;
+    margin: 0;
+    padding:0;
   }
   h1 {
     color: steelblue;
@@ -155,6 +156,7 @@ h4{ background-color: black;
 .msg {
   background-color: #006e90;
   padding:35px;
+  line-height: 1.5em;
 }
 .msg p{
   font-size: 8em;
