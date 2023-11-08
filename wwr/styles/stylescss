@@ -313,7 +313,7 @@ width:100%
   }
   .home-title {
       font-size: 25px;
-      color: #6f7364;
+
   }
   .rivers-card, .camping-card, .rapids-card { 
       margin: 50px auto;
