@@ -17,7 +17,7 @@
 body {
     text-align: center;
     background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
+    font-family: Roboto-Mono, Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0; 
@@ -113,6 +113,8 @@ footer p a:hover {
     background-color: black;
     color: #d9c2a3;
     margin-top: 10px;
+    font-family: Roboto-Mono, Arial, sans-serif;
+    font-size: 2em;
   }
 
 h4{ background-color: black;
@@ -125,6 +127,7 @@ h4{ background-color: black;
   text-decoration: none;
   margin-top: 50px;
   border-radius: 5px;
+  font-size: 18px;
 } 
   .join{
     background-color:#1f2f16;
@@ -134,6 +137,7 @@ h4{ background-color: black;
     text-decoration:none;
     margin-top: 50px;
     border-radius: 5px;
+    font-size: 18px;
   }
 .book:hover{
   background-color: #9f84bd;
@@ -144,6 +148,7 @@ h4{ background-color: black;
     color: #d9c2a3;
   }
 .msg h2{
+  font-family: Monospace, Arial, sans-serif;
   background-color: black;
   color: #d9c2a3;
 }
@@ -152,6 +157,7 @@ h4{ background-color: black;
   padding:35px;
 }
 .msg p{
+  font-size: 8em;
   background-color: black;
   color: #d9c2a3;
   padding-bottom: 15px;
