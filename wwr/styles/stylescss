@@ -88,9 +88,9 @@ nav a{
     color: white;
       padding: 25px 50px;
       margin-top: 200px; 
-      display: grid;
-      justify-content: space-evenly;
-      align-items: normal;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
   }
   
   footer a{
@@ -258,11 +258,6 @@ footer.social img{
 .rivers-card, .camping-card, .rapids-card{
   margin: 200px 0;
 }
-footer{
-   margin-top: 200px;
-   padding: 25px 50px;
-   color:#629677  
-  }
   .home-grid{
     display: grid;
     grid-template-columns: repeat(10,1fr);
