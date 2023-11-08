@@ -19,7 +19,7 @@ body {
     background-color:rgba(20,30,13, .7);
     display: grid;
     grid-template-columns: 80px auto;
-      grid-row: 1fr;
+      grid-row: 1;
       
   }
   nav a:hover {
@@ -41,7 +41,7 @@ nav a{
     justify-content: space-evenly;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-      grid-row: 1fr;
+      grid-row:auto;
     
 
   }
@@ -52,12 +52,12 @@ nav a{
   h2{
     text-align: center;
     text-decoration: #111;
-    padding: auto;
+    padding:10px;
   }
   h1 {
     color: steelblue;
     text-align: center;
-    padding: auto;
+    padding: 10px;
   }
   img {
     width: 800px;
@@ -67,12 +67,12 @@ nav a{
   
   }
   .shaded{
-    background-color: blue (hue, saturation, lightness, alpha);
+    background-color: blue;
   }
   p {
     padding: 10px;
     text-indent: 30px;
-    text-align: auto;
+    text-align:center;
   }
   footer {
     background-color: #006e90;
@@ -248,7 +248,7 @@ footer{
   }
   .home-grid{
     display: grid;
-    grid-template-columns:  repeat 10(1fr);
+    grid-template-columns: 10 repeat(1fr);
   }
   .rivers-card{
     grid-column:2/4;
