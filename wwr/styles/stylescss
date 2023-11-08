@@ -155,11 +155,7 @@ h4{ background-color: black;
   background-color: black;
   color: #d9c2a3;
 }
-.msg {
-  background-color: #006e90;
-  padding:35px;
-  line-height: 1.5em;
-}
+
 .msg p{
   font-size: 8em;
   background-color: black;
@@ -191,6 +187,8 @@ main section{
 }
   #background {
     height: 725px;
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 .center {
   margin: auto;
@@ -246,15 +244,12 @@ main section img{
   transform: scale(1.1);
 }
 .msg {
-  background-color: #6f7364;
+  background-color: #006e90;
   padding: 35px;
   grid-column: 6/10;
   grid-row: 6/7;
   box-shadow: 5px 5px 10px #6f7364;
   line-height: 1.5em;
-}
-.home-grid{
-  grid-template-columns: 1fr 1fr 1fr;
 }
 
 footer.social img{
