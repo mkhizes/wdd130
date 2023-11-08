@@ -248,7 +248,7 @@ footer{
   }
   .home-grid{
     display: grid;
-    grid-template-columns: 10 0 (1fr);
+    grid-template-columns: repeat(10,1fr);
   }
   .rivers-card{
     grid-column:2/4;
