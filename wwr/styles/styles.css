@@ -141,7 +141,7 @@ h4{ background-color: black;
   }
 .msg h2{
   font-family: Monospace, Arial, sans-serif;
-  background-color: black;
+  background-color: green;
   color: #d9c2a3;
 }
 
@@ -236,8 +236,11 @@ main section img{
   transform: scale(1.1);
 }
 .msg {
+  width:80%;
+  display: block;
   background-color: #006e90;
   padding: 35px;
+  margin: 0 auto;
   grid-column: 6/10;
   grid-row: 6/7;
   box-shadow: 5px 5px 10px #6f7364;
