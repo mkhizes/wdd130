@@ -3,6 +3,9 @@
   max-width: 1600px;
   margin: 0 auto;
 }
+#background{
+  height: 725px;
+}
 body {
     text-align: center;
     background-color: #fcfbfb;
