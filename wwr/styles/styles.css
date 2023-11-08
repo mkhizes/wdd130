@@ -141,13 +141,13 @@ h4{ background-color: black;
   }
 .msg h2{
   font-family: Monospace, Arial, sans-serif;
-  background-color: green;
+  background-color: #9f84bd;
   color: #d9c2a3;
 }
 
 .msg p{
   font-size: 8em;
-  background-color: black;
+  background-color: #1f2f16;;
   color: #d9c2a3;
   padding-bottom: 15px;
 }
