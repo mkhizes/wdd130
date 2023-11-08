@@ -3,16 +3,10 @@
   max-width: 1600px;
   margin: 0 auto;
 }
-#background{
-  height: 725px;
-}
 
-#content{
-  max-width: 1600px;
-  margin: 0 auto;
-}
 #background{
   height: 725px;
+  background-color: #fcfbfb
 }
 body {
     text-align: center;
@@ -70,7 +64,6 @@ nav a{
     width: 800px;
     border: 10px solid steelblue;
     border-image: round;
-    
   
   }
   .shaded{
@@ -117,7 +110,8 @@ footer p a:hover {
   }
 
 h4{ background-color: black;
-  color: #d9c2a3;}
+  color: #d9c2a3;
+}
 .book{
   background-color: #9f84bd;
   color: #d9c2a3;
@@ -219,6 +213,7 @@ color:white;
 }
 
 h2{
+  padding: 0;
   margin: 0;
 }
 
