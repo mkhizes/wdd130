@@ -296,7 +296,7 @@ width:100%
 }
 
 #par2{
-  float: left;
+  float: right;
   width: 50%;
   height: 300px;
   padding: 50px;
@@ -315,7 +315,7 @@ width:100%
   padding: 20px;
 }
 #misty{
-  float: right;
+  float: left;
   width: auto;
   height: auto;
   padding: 50px;
