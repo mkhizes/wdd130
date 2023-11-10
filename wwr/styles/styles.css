@@ -288,7 +288,7 @@ footer.social img{
 width:100%
 }
  
-
+/*The page2 css coding starts below*/
 
 #contained{
   max-width: 1600px;
@@ -353,7 +353,9 @@ page2{
   padding: 15px;
   grid-column: 1/2;
   grid-row: 2/3;
-  justify-content:left;
+  box-shadow: 5px 5px 10px #6f7364;
+  display:block;
+  margin: 0 auto;
   
 }
 #rafting{
