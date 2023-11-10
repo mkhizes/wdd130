@@ -80,8 +80,7 @@ nav a{
       display: flex;
       justify-content: space-around;
       align-items: center;
-      grid-template-columns: repeat(5,1fr);
-      grid-row: auto;
+      
   }
   
   footer a{
@@ -254,6 +253,8 @@ main section img{
 
 footer.social img{
   padding-top: 15px;
+  grid-template-columns: repeat(5,1fr);
+  grid-row: auto;
 }
 .rivers-card, .camping-card, .rapids-card{
   margin: 200px 0;
