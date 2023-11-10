@@ -292,9 +292,27 @@ pre{
   width: 50%;
   height: 300px;
   padding: 20px;
-  
+
 }
 
+#wide{
+  float: right;
+  width: 50%;
+  height: 300px;
+  padding: 20px;
+}
+#misty{
+  float: right;
+  width: 50%;
+  height: 300px;
+  padding: 20px;
+}
+#rafting{
+  float: right;
+  width: 50%;
+  height: 300px;
+  padding: 20px;
+}
 @media screen and (max-width: 900px) 
 {
   #hero, .home-grid {
