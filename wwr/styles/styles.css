@@ -287,7 +287,13 @@ footer.social img{
 #hero-img{
 width:100%
 }
-
+pre{
+  float: left;
+  width: 50%;
+  height: 300px;
+  padding: 20px;
+  
+}
 
 @media screen and (max-width: 900px) 
 {
