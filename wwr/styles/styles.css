@@ -297,8 +297,8 @@ pre{
 
 #wide{
   float: right;
-  width: 50%;
-  height: 300px;
+  width: auto;
+  height: 600px;
   padding: 20px;
 }
 #misty{
