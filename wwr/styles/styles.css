@@ -288,6 +288,7 @@ footer.social img{
 width:100%
 }
 .page2{
+  background-color: #006e90;
   display:grid;
   grid-template-rows: repeat(6,1fr);
   grid-row: 1fr 1fr;
@@ -298,7 +299,6 @@ width:100%
   width: 50%;
   height: 300px;
   padding: 50px;
-  background-color: #006e90;
   grid-column: 1/2;
   grid-row: 1/2;
 
@@ -309,7 +309,6 @@ width:100%
   width: 50%;
   height: 300px;
   padding: 50px;
-  background-color: #629677;
   grid-column: 2/3;
   grid-row: 2/3;
 }
@@ -353,7 +352,7 @@ width:100%
 .rates{
   float: left;
   width: auto;
-  height: auto;
+  height: 100px;
   padding: 15px;
   grid-column: 1/2;
   grid-row: 4/5;
@@ -363,7 +362,7 @@ width:100%
 #faq-box{
   float: right;
   width: auto;
-  height: auto;
+  height: 100px;
   padding: 15px;
   grid-column: 1/2;
   grid-row: 5/6;
