@@ -306,6 +306,8 @@ pre{
   width: 50%;
   height: 500px;
   padding: 20px;
+  justify-content:right;
+  align-content: right ;
 }
 #rafting{
   float: right;
