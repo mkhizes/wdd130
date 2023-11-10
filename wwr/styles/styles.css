@@ -254,6 +254,7 @@ main section img{
 footer.social img{
   padding-top: 15px;
   grid-template-columns: repeat(5,1fr);
+  grid-column: auto;
   grid-row: auto;
 }
 .rivers-card, .camping-card, .rapids-card{
