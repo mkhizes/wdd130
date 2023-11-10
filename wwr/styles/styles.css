@@ -80,13 +80,13 @@ nav a{
       display: flex;
       justify-content: space-around;
       align-items: center;
+      grid-template-columns: repeat(5,1fr);
   }
   
   footer a{
     background-color: black;
     color: #d9c2a3;
     text-align: center;
-    color: #fcfbfb;
     text-decoration: none;
   }
 footer a:hover{
