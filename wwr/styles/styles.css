@@ -287,6 +287,14 @@ footer.social img{
 #hero-img{
 width:100%
 }
+ 
+
+
+#contained{
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
 .page2{
   background-color: #006e90;
   display:grid;
