@@ -312,21 +312,21 @@ width:100%
   float: right;
   width: auto;
   height: auto;
-  padding: 50px;
+  padding: 15px;
 }
 #misty{
   float: left;
   width: auto;
   height: auto;
-  padding: 50px;
+  padding: 15px;
   justify-content:left;
   align-content: left ;
 }
 #rafting{
   float: right;
-  width: 50%auto;
+  width: auto;
   height: auto;
-  padding: 50px;
+  padding: 15px;
 }
 @media screen and (max-width: 900px) 
 {
