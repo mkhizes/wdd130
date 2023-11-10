@@ -312,15 +312,15 @@ width:100%
   float: right;
   width: auto;
   height: auto;
-  padding: 20px;
+  padding: 50px;
 }
 #misty{
   float: left;
   width: auto;
   height: auto;
   padding: 50px;
-  justify-content:right;
-  align-content: right ;
+  justify-content:left;
+  align-content: left ;
 }
 #rafting{
   float: right;
