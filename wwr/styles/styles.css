@@ -250,7 +250,11 @@ main section img{
   box-shadow: 5px 5px 10px #6f7364;
   line-height: 1.5em;
 }
+footer{
+  grid-template-columns: repeat(5, 1fr) auto;
+  grid-row: auto;
 
+}
 footer.social img{
   padding-top: 15px;
 
