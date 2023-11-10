@@ -293,6 +293,7 @@ width:100%
   width: 50%;
   height: 300px;
   padding: 50px;
+  background-color: #006e90;
 }
 
 #par2{
@@ -300,12 +301,14 @@ width:100%
   width: 50%;
   height: 300px;
   padding: 50px;
+  background-color: #629677;
 }
 #par3{
     float: left;
     width: 50%;
     height: 300px;
     padding: 50px;
+    background-color: #6f7364;
 }
 
 #wide{
