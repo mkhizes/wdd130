@@ -287,12 +287,25 @@ footer.social img{
 #hero-img{
 width:100%
 }
-pre{
+
+#par1{
   float: left;
   width: 50%;
   height: 300px;
   padding: 50px;
+}
 
+#par2{
+  float: left;
+  width: 50%;
+  height: 300px;
+  padding: 50px;
+}
+#par3{
+    float: left;
+    width: 50%;
+    height: 300px;
+    padding: 50px;
 }
 
 #wide{
