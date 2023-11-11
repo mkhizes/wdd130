@@ -299,6 +299,9 @@ width:100%
   margin: 0 auto;
 }
 */
+#head-text{
+  align-items: center;
+}
 page2{
   height: 725px;
   background-color: #006e90;
