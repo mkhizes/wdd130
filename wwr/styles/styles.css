@@ -300,7 +300,7 @@ width:100%
 }
 */
 #head-text{
-  align-items: center;
+  align-items:normal;
 }
 page2{
   height: 725px;
