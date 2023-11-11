@@ -343,7 +343,7 @@ page2{
     align-items: start;
 }
 
-#wide{
+#image1{
   float: right;
   width: auto;
   height: auto;
@@ -352,7 +352,7 @@ page2{
   grid-row: 1/2;
 
 }
-#misty{
+#image2{
   
   width: auto;
   height: auto;
@@ -364,7 +364,7 @@ page2{
   margin: 0 auto;
   
 }
-#rafting{
+#image3{
   width: auto;
   height: auto;
   padding: 15px;
