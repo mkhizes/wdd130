@@ -285,7 +285,7 @@ footer.social img{
   grid-row:6/7;
 }
 #bottom{
-  grid-column:auto ;
+  grid-column:auto;             
   grid-row:9/10 ;
 }
 #hero-img{
@@ -295,7 +295,7 @@ width:100%
 /*The page2index.html is a subpage for the Home page of Rafting website css coding starts here below*/
 
 /*#contained{
-  max-width: auto;
+  max-width: auto;     
   margin: 0 auto;
 }
 */
