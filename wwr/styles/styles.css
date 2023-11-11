@@ -395,12 +395,12 @@ page2{
 }
 .blog{
   color: #111;
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 300px;
   padding: 15px;
   grid-column: 1/3;
   grid-row: 6/7;
-  justify-content:left;
+  
 }
 @media screen and (max-width: 900px) 
 {
