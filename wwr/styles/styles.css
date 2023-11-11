@@ -335,7 +335,7 @@ page2{
 #par3{
     float: left;
     width: 50%;
-    height: 300px;
+    height: auto;
     padding: 50px;
     background-color: #6f7364;
     grid-column: 1/2;
