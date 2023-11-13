@@ -347,8 +347,8 @@ page2{
 
 #image1{
   float: right;
-  width: 350px;
-  height: 350px;
+  width: 600px;
+  height: 600px;
   padding: 15px;
   grid-column: 2/2;
   grid-row: 1/2;
@@ -356,9 +356,9 @@ page2{
 
 }
 #image2{
-  float:inline-end;
-  width: 350px;
-  height: 350px;
+
+  width: 600px;
+  height: 600px;
   padding: 15px;
   grid-column: 1/2;
   grid-row: 2/3;
@@ -368,9 +368,8 @@ page2{
   
 }
 #image3{
-  align-items:last baseline ;
-  width: 350px;
-  height: 350px;
+  width: 600px;
+  height: 600px;
   padding: 15px;
   grid-column: 1/2;
   grid-row: 3/4;
