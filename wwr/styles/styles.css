@@ -331,6 +331,7 @@ page2{
   grid-column: 2/3;
   grid-row: 2/3;
   align-content: left;
+  position:absolute
 }
 #par3{
     float: left;
@@ -407,7 +408,7 @@ page2{
     height: 600px;
     overflow: scroll;
   }
-  
+
 @media screen and (max-width: 900px) 
 {
   #hero, .home-grid {
