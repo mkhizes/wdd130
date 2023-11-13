@@ -345,12 +345,13 @@ page2{
 }
 
 #image1{
-  float: right;
+  position: absolute;
   width: 600px;
   height: 600px;
   padding: 15px;
   grid-column: 2/2;
   grid-row: 1/2;
+  right: 0px;
   box-shadow: 5px 5px 10px #6f7364;
 
 }
