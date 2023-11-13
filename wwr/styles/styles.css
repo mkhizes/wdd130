@@ -316,6 +316,7 @@ page2{
 }
 
 #par1{
+  float:left;
   width: 50%;
   height: 300px;
   padding: 50px;
@@ -334,7 +335,6 @@ page2{
   position:absolute
 }
 #par3{
-    float: left;
     width: 50%;
     height: auto;
     padding: 50px;
@@ -345,6 +345,7 @@ page2{
 }
 
 #image1{
+  float: left;
   position: absolute;
   width: 600px;
   height: 600px;
