@@ -314,6 +314,9 @@ page2{
   grid-row: 1fr 1fr;
   width:1600px;
 }
+section{
+  column-count: 2;
+}
 
 #par1{
   float:left;
