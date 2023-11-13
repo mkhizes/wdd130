@@ -385,7 +385,7 @@ page2{
   justify-content:left;
 }
 
-#faq-box{
+/*#faq-box{
   float: right;
   width: auto;
   height: 100px;
@@ -401,7 +401,8 @@ page2{
   padding: 15px;
   grid-column: 1/3;
   grid-row: 6/7;
-  }
+  }*/
+
   pre{
     background-color: #111;
     width: 600px;
