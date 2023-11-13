@@ -286,7 +286,7 @@ footer.social img{
 }
 #bottom{
   grid-column:auto;             
-  grid-row:9/10 ;
+  grid-row:auto ;
 }
 #hero-img{
 width:100%
