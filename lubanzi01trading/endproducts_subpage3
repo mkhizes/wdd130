@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whitewater Rafting Vacations | Dry Oar Boating | Home</title>
+    <link rel="stylesheet" href="wwr/styles/styles.css">
+    <link rel="" href="services_subpage2.html">
+    <link rel="" href="endproducts_subpage3.html">
+
+   </head>
+<body>
+  <div id="content">
+  <header>
+    <a id="logo_link" href="piggery_homepage.html">
+        <img class="logo" src="images/logo1.png" alt="lubanzi_piggery_logo">
+    </a>
+    <nav>
+        <a href="piggery_homepage.html">Home Page</a>
+        <a href="services_subpage2.html">services_and_gallery_subpage2</a>
+        <a href="endproducts_subpage3.html">End Products</a>
+        <a href="site-plan.html">Site Plan</a>
+        <a href="contactus.html">Contact Us</a>
+    </nav>
+  </header>
+  <div id="hero">
+    <div id="hero-box">
+      <img id="hero-img" src="images/healthy_piglets.jpg" alt="pigs" width="100%" height="600px">
+      </div>
+      <section id="hero-msg">
+        <h1 class="home-title"> Have An Adventure</h1>
+        <h4>Make Memories with Lubanzi Piggery Farming</h4>
+        <div class='button-box'>
+          <a class='book' href="contactus.html">Place an Order</a>
+        </div>
+        </section>
+</div>
+<main class="home-grid">
+    <div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+
+    </div>
+  </main>
+  <footer id="bottom">
+  <p>Lubanzi Piggery Farming copy; 2023 - Sizwe Mkhize</p>
+    <p><a href="site-plan-rafting.html">Site Plan</a></p>
+    <p><a href="contactus.html">Contact Us</a></p>
+    <div class="social">
+        <a href="https://facebook.com" target="_blank">
+            <img src="wwr/images/facebook.png" alt="fb icon">
+        </a>
+        <a href="https://twitter.com" target="_blank">
+            <img src="wwr/images/twitter.png" alt="twitter icon">
+        </a>
+        <a href="https://instagram.com" target="_blank">
+            <img src="wwr/images/instagram.png" alt="instagram icon">
+        </a>
+    </div>
+  </footer>
+ </div>
+</body>
+</html>
