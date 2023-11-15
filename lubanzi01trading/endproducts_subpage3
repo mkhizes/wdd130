@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="lubanzio1trading/styles/styles.css">
     <link rel="stylesheet" href="services_subpage2.html">
     <link rel="stylesheet" href="endproducts_subpage3.html">
-
-   </head>
+</head>
 <body>
   <div id="content">
   <header>
@@ -23,13 +22,8 @@
         <a href="contactus.html">Contact Us</a>
     </nav>
   </header>
-  <div id="hero">
-    <div id="hero-box">
-      <img id="hero-img" src="images/healthy_piglets.jpg" alt="pigs" width="100%" height="600px">
-      </div>
-      <section id="hero-msg">
-        <h1 class="home-title"> Have An Adventure</h1>
-        <h4>Make Memories with Lubanzi Piggery Farming</h4>
+        <h1 class="home-title"> Pork Meat Products</h1>
+        <h4>Make Memories with our tasty Lubanzi Pork products</h4>
         <div class='button-box'>
           <a class='book' href="contactus.html">Place an Order</a>
         </div>
