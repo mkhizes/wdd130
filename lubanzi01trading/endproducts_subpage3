@@ -9,9 +9,9 @@
     <link rel="" href="endproducts_subpage3.html">
   </head>
 <body>
-  <div id=>
+  <div >
   <header>
-    <a id="" href="piggery_homepage.html">
+    <a  href="piggery_homepage.html">
         <img class="logo" src="images/logo1.png" alt="lubanzi_piggery_logo">
     </a>
     <nav>
@@ -153,7 +153,7 @@
 </div>
     </div>
   </main>
-  <footer id="bottom">
+  <footer>
   <p>Lubanzi Piggery Farming copy; 2023 - Sizwe Mkhize</p>
     <p><a href="site-plan.html">Site Plan</a></p>
     <p><a href="contactus.html">Contact Us</a></p>
