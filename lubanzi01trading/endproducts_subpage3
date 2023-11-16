@@ -9,9 +9,9 @@
     <link rel="" href="endproducts_subpage3.html">
   </head>
 <body>
-  <div id="content">
+  <div id=>
   <header>
-    <a id="logo_link" href="piggery_homepage.html">
+    <a id="" href="piggery_homepage.html">
         <img class="logo" src="images/logo1.png" alt="lubanzi_piggery_logo">
     </a>
     <nav>
@@ -22,14 +22,14 @@
         <a href="contactus.html">Contact Us</a>
     </nav>
   </header>
-        <h1 class="home-title"> Pork Meat Products</h1>
+        <h1 class=""> Pork Meat Products</h1>
         <h4>Make Memories with our tasty Lubanzi Pork products</h4>
-        <div class='button-box'>
-          <a class='book' href="contactus.html">Place an Order</a>
+        <div id='button-box'>
+          <a class='order' href="contactus.html">Place an Order</a>
         </div>
         </section>
 </div>
-<main class="home-grid">
+<main class="products-grid">
     <div>
 <div>
     <a target=" blank"  href="">
