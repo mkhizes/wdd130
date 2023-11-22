@@ -1,4 +1,4 @@
-/*#content{
+#content{
     max-width: 1600px;
     margin: 0 auto;
   }
@@ -25,19 +25,19 @@
     }
     nav a:hover {
       background-color: #629677;
-      color: #d9c2a3;
+      color: #f1faee;
       text-align: center;
-      color: #fcfbfb;
+      color: #457b9d;
       text-decoration: none;
   }
   nav a{
     text-align: center;
       text-decoration: none;
-      color: #fcfbfb;
+      color: #457b9d;
       padding: 35px;
   }
     nav {
-      background-color: rgb(70, 130, 180);
+      background-color:#e63946;
       padding: 10px;
       justify-content: space-around;
       display: flex;
