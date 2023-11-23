@@ -113,8 +113,9 @@ main section{
    }
    
    .par {
+    background-color:#457b9d ;
      box-sizing: border-box;
-     color:#457b9d;
+     color:#e63946;
      padding: 25px;
      text-align:center;
      text-indent: 30px;
