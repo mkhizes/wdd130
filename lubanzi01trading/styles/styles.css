@@ -80,13 +80,14 @@ nav a{
       grid-template-columns: auto;
       align-items:start;
     }
-  /*
+
   footer a{
     background-color: black;
     color: #d9c2a3;
     text-align: center;
     text-decoration: none;
   }
+
 footer a:hover{
   background-color: grey;
   color: #d9c2a3;
@@ -116,34 +117,21 @@ main section{
    par {
      box-sizing: border-box;
  }
- /*
+ 
  @media screen and (max-width: 900px) 
 {
   #hero, .home-grid {
       display: block;
       height: auto;
   }
-  /*nav, footer {
+  nav, footer {
       flex-direction: column;
-  }*//*
+  }
   nav a {
       display: block;
       padding: 15px;
-  }
-  #hero {
-      margin-top: 0;
-  }
-  #hero-msg {
-      margin-top: 0;
-  }
-  #hero-msg h4 {
-      display: none;
-  }
-  .home-title {
-      font-size: 25px;
-
-  }
-  
+ }
+    
   #background {
       display: none;
   }
@@ -151,5 +139,5 @@ main section{
   footer {
       margin-top: 25px;
   }
-
+}
           
