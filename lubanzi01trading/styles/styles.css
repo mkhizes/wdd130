@@ -64,6 +64,7 @@ nav a{
     color: steelblue;
     text-align: center;
     padding: 20px;
+    border: 20px solid steelblue;
   }
   img {
     width: 100%;
@@ -71,13 +72,13 @@ nav a{
     border-image: round;
   }
   
-  /*
-  p {
+  
+  .par {
     padding: 10px;
     text-indent: 30px;
-    text-align:center;    
+    text-align:left;    
   }
-
+/*
   footer {
     background-color: #006e90;
     color: white;
