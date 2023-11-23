@@ -23,7 +23,11 @@ body {
     display: grid;
     grid-template-columns: 200px auto;    
   }
+ #hero-img {
+    width:100%;
+    box-sizing:border-box;
 
+ }
   nav a:hover {
     background-color: #e63946;
     color: #d9c2a3;
@@ -117,7 +121,11 @@ main section{
    par {
      box-sizing: border-box;
  }
- 
+  #bottom{
+    grid-column:auto;             
+    grid-row:auto ;
+  }
+
  @media screen and (max-width: 900px) 
 {
   #hero, .home-grid {
