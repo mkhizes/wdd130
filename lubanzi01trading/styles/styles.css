@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0; 
   }
-
+/*
   header {
     background-color:rgba(20,30,13, .7);
     display: grid;
@@ -126,7 +126,7 @@ main section{
   }
   /*nav, footer {
       flex-direction: column;
-  }*/
+  }*//*
   nav a {
       display: block;
       padding: 15px;
@@ -152,5 +152,5 @@ main section{
   footer {
       margin-top: 25px;
   }
-}
+
           
