@@ -99,21 +99,22 @@ footer p a:hover {
   text-decoration: underline;
 }   
   .home-title{
-    background-color: #9f84bd;
+    background-color: #457b9d;
     color: #d9c2a3;
     margin-top: 10px;
     font-family: Roboto-Mono, Arial, sans-serif;
     font-size: 2em;
   }
 
-h4{ background-color: #9f84bd;
+h4{ background-color: #e63946;
   color: #d9c2a3;
 }
 main section{
     text-align: center;
+    box-sizing: border-box;
    }
    
-   main section img {
+   par {
      box-sizing: border-box;
  }
  
@@ -123,9 +124,9 @@ main section{
       display: block;
       height: auto;
   }
-  nav, footer {
+  /*nav, footer {
       flex-direction: column;
-  }
+  }*/
   nav a {
       display: block;
       padding: 15px;
