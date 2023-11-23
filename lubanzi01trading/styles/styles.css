@@ -109,3 +109,11 @@ footer p a:hover {
 h4{ background-color: #9f84bd;
   color: #d9c2a3;
 }
+main section{
+    text-align: center;
+   }
+   
+   main section img {
+     box-sizing: border-box;
+ }
+ 
