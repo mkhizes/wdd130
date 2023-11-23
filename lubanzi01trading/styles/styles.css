@@ -77,8 +77,8 @@ nav a{
     text-indent: 30px;
     text-align:center;    
   }
-  
-/*
+
+
   footer {
     background-color: #006e90;
     color: white;
@@ -86,9 +86,9 @@ nav a{
       margin-top: 200px; 
       display: flex;
       justify-content: space-around;
-      align-items: center;
+      align-items:start;
     }
-  
+  /*
   footer a{
     background-color: black;
     color: #d9c2a3;
