@@ -114,12 +114,14 @@ main section{
    
    .par {
     background-color:#457b9d ;
-     box-sizing: border-box;
-     color:#e63946;
-     padding: 25px;
-     text-align:center;
-     text-indent: 30px;
-     font-family: Roboto-Mono, Arial, sans-serif;
+    box-sizing: border-box;
+    color:#e63946;
+    padding: 55px;
+    text-align:center;
+    text-indent: 30px;
+    font-family: Roboto-Mono, Arial, sans-serif;
+    justify-content: space-around;
+    
  }
 
   #bottom{
