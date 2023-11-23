@@ -25,20 +25,21 @@ body {
   }
 
   nav a:hover {
-    background-color: #629677;
+    background-color: #e63946;
     color: #d9c2a3;
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
 }
 
-/*
+
 nav a{
   text-align: center;
     text-decoration: none;
     color: #fcfbfb;
     padding: 35px;
 }
+/*
   nav {
     background-color: rgb(70, 130, 180);
     padding: 10px;
