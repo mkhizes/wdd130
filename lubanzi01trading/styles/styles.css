@@ -62,11 +62,12 @@ nav a{
     padding: 20px;
     border: 20px solid steelblue;
   }
+  /*
   img {
     width: 100%;
     border: 20px solid steelblue;
     border-image: round;
-  }
+  }*/
     
   .par {
     padding: 10px;
