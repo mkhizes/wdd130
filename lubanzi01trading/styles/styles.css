@@ -110,7 +110,7 @@ h4{ background-color: #e63946;
   color: #d9c2a3;
 }
 main section{
-    text-align: center;
+    text-align:var(#457b9d);
     box-sizing: border-box;
    }
    
