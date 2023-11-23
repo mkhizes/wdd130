@@ -59,6 +59,7 @@ nav a{
     margin: 0;
     padding:0;
   }
+  */
   h1 {
     color: steelblue;
     text-align: center;
@@ -120,7 +121,7 @@ main section{
    par {
      box-sizing: border-box;
  }
- 
+ /*
  @media screen and (max-width: 900px) 
 {
   #hero, .home-grid {
