@@ -47,11 +47,12 @@ nav a{
     display: flex;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-    /*
+    
   a {
     color: white;
     margin: 40px;
   }
+  /*
   h2{
     text-align: center;
     text-decoration: #111;
