@@ -75,8 +75,9 @@ nav a{
   .par {
     padding: 10px;
     text-indent: 30px;
-    text-align:left;    
+    text-align:center;    
   }
+  
 /*
   footer {
     background-color: #006e90;
