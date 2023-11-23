@@ -108,7 +108,7 @@ h4{ background-color: #e63946;
   margin:auto
 }
 main section{
-    text-align:var(#457b9d);
+    text-align:#457b9d;
     box-sizing: border-box;
    }
    
