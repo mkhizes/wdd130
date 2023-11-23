@@ -52,14 +52,6 @@ nav a{
     color: white;
     margin: 30px;
   }
-  /*
-  h2{
-    text-align: center;
-    text-decoration: #111;
-    margin: 0;
-    padding:0;
-  }
-  */
   h1 {
     color: steelblue;
     text-align: center;
@@ -84,8 +76,8 @@ nav a{
     color: white;
       padding: 25px 50px;
       margin-top: 100px; 
-      display:inline-block;
-      justify-content: space-around;
+      display: flex;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
       align-items:start;
     }
   /*
