@@ -23,7 +23,7 @@ body {
     display: grid;
     grid-template-columns: 150px auto;    
   }
-/*
+
   nav a:hover {
     background-color: #629677;
     color: #d9c2a3;
@@ -31,6 +31,8 @@ body {
     color: #fcfbfb;
     text-decoration: none;
 }
+
+/*
 nav a{
   text-align: center;
     text-decoration: none;
