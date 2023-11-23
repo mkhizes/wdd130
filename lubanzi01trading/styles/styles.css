@@ -68,13 +68,7 @@ nav a{
     border: 20px solid steelblue;
     border-image: round;
   }*/
-    
-  .par {
-    padding: 10px;
-    text-indent: 30px;
-    text-align:center;    
-  }
-
+     
 
   footer {
     background-color: #006e90;
@@ -113,15 +107,22 @@ footer p a:hover {
 
 h4{ background-color: #e63946;
   color: #d9c2a3;
+  padding:25px;
+  margin:auto
 }
 main section{
     text-align:var(#457b9d);
     box-sizing: border-box;
    }
    
-   par {
+   .par {
      box-sizing: border-box;
+     color:#457b9d;
+     padding: 25px;
+     text-align:center;
+     text-indent: 30px;
  }
+
   #bottom{
     grid-column:auto;             
     grid-row:auto ;
