@@ -115,13 +115,13 @@ main section{
    .par {
     background-color:#457b9d ;
     box-sizing: border-box;
-    color:#e63946;
+    color:black;
     padding: 55px;
     text-align:center;
     text-indent: 30px;
     font-family: Roboto-Mono, Arial, sans-serif;
     justify-content: space-around;
-    overflow: scroll;
+    
  }
 
   #bottom{
