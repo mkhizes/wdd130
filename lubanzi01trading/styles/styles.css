@@ -121,7 +121,7 @@ main section{
     text-indent: 30px;
     font-family: Roboto-Mono, Arial, sans-serif;
     justify-content: space-around;
-    
+    overflow: scroll;
  }
 
   #bottom{
