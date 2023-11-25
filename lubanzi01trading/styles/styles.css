@@ -125,7 +125,7 @@ main section{
  }
 
   #bottom{
-    grid-column:auto;             
+    grid-column:300px auto;             
     grid-row:auto ;
 
   }
