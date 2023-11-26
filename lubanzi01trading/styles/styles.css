@@ -109,7 +109,7 @@ h4{ background-color: #e63946;
   margin:auto
 }
 main section{
-    text-align:#457b9d;
+    text-align:center;
     box-sizing: border-box;
    }
    
@@ -127,7 +127,7 @@ main section{
  }
 
   #bottom{
-    grid-column:300px auto;             
+    grid-column:auto;             
     grid-row:auto ;
 
   }
