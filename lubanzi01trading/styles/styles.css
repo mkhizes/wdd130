@@ -144,6 +144,10 @@ main section{
   
   img {
     box-sizing: border-box;
+    padding:25px;
+    background-color: #457b9d;
+    justify-content: space-around;
+
   }
   
   img {
