@@ -154,6 +154,7 @@ main section{
     box-sizing: border-box;
     padding: 35px;
     background-color: #A8DADC;
+    align-items: center;
   }
 
   /* Position the image container (needed to position the left and right arrows) */
