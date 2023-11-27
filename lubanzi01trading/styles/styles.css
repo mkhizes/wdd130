@@ -34,7 +34,6 @@ body {
  }
   nav a:hover {
     background-color: #e63946;
-    color: #d9c2a3;
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
@@ -43,9 +42,9 @@ body {
 
 nav a{
   text-align: center;
-  text-decoration: none;
-  color: #fcfbfb;
-  padding: 35px;
+    text-decoration: none;
+    color: #fcfbfb;
+    padding: 25px;
 }
 
   nav {
@@ -145,12 +144,18 @@ main section{
   img {
     vertical-align: middle;
     box-sizing:border-box;
-    padding:35px;
-    background-color: #d9c2a3;
+    padding:45px;
+    background-color: #A8DADC;
     justify-content: space-around;
 
   }
-    
+  /*pre{
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: #A8DADC;
+    align-items: center;
+  }*/
+
   /* Position the image container (needed to position the left and right arrows) */
   .container {
     position: relative;
@@ -235,12 +240,12 @@ main section{
   }
 
   .btn-group button {
-    background-color: #e63946; /* Red background */
-    border: 1px solid #457b9d; /* Stone blue border */
-    color: #f1faee; /* White text */
+    background-color: #04AA6D; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
     padding: 10px 24px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
-    width: 100%; /* Set a width if needed */
+    width: 50%; /* Set a width if needed */
     display: block; /* Make the buttons appear below each other */
   }
   
@@ -250,7 +255,7 @@ main section{
   
   /* Add a background color on hover */
   .btn-group button:hover {
-    background-color: #a8dadc;
+    background-color: #3e8e41;
   }
   
 
