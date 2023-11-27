@@ -133,10 +133,6 @@ main section{
   }
   /* The css coding for the sub page after home page*/
 
-
-
-
-
   body {
     font-family: Arial;
     margin: 0;
@@ -154,7 +150,12 @@ main section{
     justify-content: space-around;
 
   }
-  
+  pre{
+    box-sizing: border-box;
+    padding: 35px;
+    background-color: #A8DADC;
+  }
+
   /* Position the image container (needed to position the left and right arrows) */
   .container {
     position: relative;
