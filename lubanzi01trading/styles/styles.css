@@ -145,18 +145,12 @@ main section{
   img {
     vertical-align: middle;
     box-sizing:border-box;
-    padding:55px;
-    background-color: #A8DADC;
+    padding:45px;
+    background-color: #d9c2a3;
     justify-content: space-around;
 
   }
-  pre{
-    box-sizing: border-box;
-    padding: 35px;
-    background-color: #A8DADC;
-    align-items: center;
-  }
-
+    
   /* Position the image container (needed to position the left and right arrows) */
   .container {
     position: relative;
