@@ -30,7 +30,6 @@ body {
     background-color: #e63946;
     justify-content: space-around;
 
-
  }
   nav a:hover {
     background-color: #e63946;
@@ -150,12 +149,13 @@ main section{
     justify-content: space-around;
 
   }
-  /*pre{
+  pre{
     box-sizing: border-box;
     padding: 25px;
     background-color: #A8DADC;
-    align-items: center;
-  }*/
+    
+    
+  }
 
   /* Position the image container (needed to position the left and right arrows) */
   .container {
@@ -248,7 +248,7 @@ main section{
     cursor: pointer; /* Pointer/hand icon */
     width: 50%; /* Set a width if needed */
     display: block; /* Make the buttons appear below each other */
-    
+    margin:auto;
   }
   
   .btn-group button:not(:last-child) {
