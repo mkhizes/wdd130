@@ -262,7 +262,14 @@ main section{
   .btn-group button:hover {
     background-color: #3e8e41;
   }
-  
+  .product-grid{
+    background-color: #457b9d;
+    padding: 55px;
+    text-align:center;
+    text-indent: 30px;
+    font-family: Roboto-Mono, Arial, sans-serif;
+    justify-content: space-around;
+  }
 
 
  @media screen and (max-width: 900px) 
