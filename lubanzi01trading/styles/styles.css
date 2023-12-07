@@ -262,7 +262,7 @@ main section{
   .btn-group button:hover {
     background-color: #3e8e41;
   }
-  .product-grid{
+  .products-grid{
     background-color: #457b9d;
     padding: 55px;
     text-align:center;
